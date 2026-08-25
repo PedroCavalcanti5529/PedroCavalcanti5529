@@ -3,7 +3,7 @@
 Computer Engineering student at **UFPE** (Universidade Federal de Pernambuco), currently looking for an **internship (estágio)** in software development.
 
 - 🌱 Learning: algorithms & data structures, neural networks, machine learning
-- 💼 Open to: internship opportunities in Data Science, Software Engeneering, Computer Vision
+- 💼 Open to: internship opportunities in Data Science, Software Engeneering
 - 📍 Based in Recife, Brazil
 - 🇧🇷 / 🇺🇸 Falo português e inglês
 

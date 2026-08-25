@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Pedro 👋
 
-<!--
-**PedroCavalcanti5529/PedroCavalcanti5529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at **UFPE** (Universidade Federal de Pernambuco), currently looking for an **internship (estágio)** in software development.
 
-Here are some ideas to get you started:
+- 🌱 Learning: algorithms & data structures, neural networks, machine learning
+- 💼 Open to: internship opportunities in Data Science, Software Engeneering, Computer Vision
+- 📍 Based in Recife, Brazil
+- 🇧🇷 / 🇺🇸 Falo português e inglês
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+| Project | Description |
+|---|---|
+| [Algorithm-Projects](https://github.com/PedroCavalcanti5529/Algorithm-Projects) | Solutions to algorithmic problems (graphs, AVL trees, hashing, DP) written in C |
+
+## Reach me
+
+- LinkedIn: www.linkedin.com/in/pedro-cavalcanti-75794b36b
+- Email: phac2@cin.ufpe.br
+
+---
+<sub>This profile is a work in progress — more projects coming soon.</sub>
